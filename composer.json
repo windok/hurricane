@@ -1,0 +1,17 @@
+{
+  "name": "windok/hurricane",
+  "description": "Hurricane REST Framework",
+  "authors": [
+    {
+      "name": "windok",
+      "email": "windok.ua@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+        "Application\\": "Application",
+        "Modules\\": "Modules",
+        "Hurricane\\": "Core"
+    }
+  }
+}

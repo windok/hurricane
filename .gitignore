@@ -1,0 +1,17 @@
+*~
+._*
+.DS_Store
+.Trashes
+.Trash-*
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+/.idea/
+/*.iml
+
+composer.phar
+/vendor/
+
+/phpunit.phar
